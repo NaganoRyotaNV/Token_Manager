@@ -21,7 +21,7 @@ npm install
 3. アプリケーションを起動します。
 
 ```
-npm start
+npm run dev
 ```
 
 バックエンド
@@ -47,7 +47,7 @@ env
 REACT_APP_API_URL=http://localhost:8080
 ```
 
-[デプロイ済みアプリ](https://devtools-manager-wp754fjpdq-dt.a.run.app/)
+[デプロイ済みアプリ](https://frontend-service-632501898277.asia-east1.run.app)
 デプロイ済みのアプリケーションは以下の URL でアクセスできます。
 
 使用方法
@@ -74,8 +74,5 @@ REACT_APP_API_URL=http://localhost:8080
 
 1. 「CSV として保存」ボタンをクリックし、ファイル名を入力して保存します。
 
-[作業の記録はキータにて配信予定](URL)
+[作業の記録はキータにて配信予定](https://qiita.com/ryotaNS/items/7251435810e40afab9db)
 
-CSV の形式の例は以下
-
-.\backend\uploaded.csv
