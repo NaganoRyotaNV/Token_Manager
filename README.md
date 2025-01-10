@@ -74,5 +74,5 @@ REACT_APP_API_URL=http://localhost:8080
 
 1. 「CSV として保存」ボタンをクリックし、ファイル名を入力して保存します。
 
-[作業の記録はキータにて配信予定](https://qiita.com/ryotaNS/items/7251435810e40afab9db)
+[作業の記録](https://qiita.com/ryotaNS/items/7251435810e40afab9db)
 
